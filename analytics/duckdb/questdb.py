@@ -1,0 +1,1 @@
+# todo: add query to retrieve parquet files from questdb and insert into duckdb
